@@ -1,0 +1,16 @@
+D:\projects\IDPServer\clientsocket\clientsocket\bin\Debug\net6.0-windows\clientsocket.exe
+D:\projects\IDPServer\clientsocket\clientsocket\bin\Debug\net6.0-windows\clientsocket.deps.json
+D:\projects\IDPServer\clientsocket\clientsocket\bin\Debug\net6.0-windows\clientsocket.runtimeconfig.json
+D:\projects\IDPServer\clientsocket\clientsocket\bin\Debug\net6.0-windows\clientsocket.dll
+D:\projects\IDPServer\clientsocket\clientsocket\bin\Debug\net6.0-windows\clientsocket.pdb
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\clientsocket.Form1.resources
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\clientsocket.csproj.GenerateResource.cache
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\clientsocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\clientsocket.AssemblyInfoInputs.cache
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\clientsocket.AssemblyInfo.cs
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\clientsocket.csproj.CoreCompileInputs.cache
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\clientsocket.dll
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\refint\clientsocket.dll
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\clientsocket.pdb
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\clientsocket.genruntimeconfig.cache
+D:\projects\IDPServer\clientsocket\clientsocket\obj\Debug\net6.0-windows\ref\clientsocket.dll
